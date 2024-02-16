@@ -4,7 +4,7 @@ Source: https://cs50.harvard.edu/x/2024/
 
 [Week 0:](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-0) Scratch
 
-[Week 1:]() C
+[Week 1:](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-1) C
 
 [Week 2:]() Arrays
 

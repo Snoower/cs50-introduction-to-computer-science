@@ -29,8 +29,8 @@
 
 **Problem Sets**
 
-- [Hello, Me]()
-- [Mario (Less)]()
-- [Mario (More)]()
-- [Cash]()
-- [Credit]()
+- [Hello, Me](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-1/problem-sets/hello-me)
+- [Mario (Less)](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-1/problem-sets/mario-less)
+- [Mario (More)](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-1/problem-sets/mario-more)
+- [Cash](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-1/problem-sets/cash)
+- [Credit](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-1/problem-sets/credit)

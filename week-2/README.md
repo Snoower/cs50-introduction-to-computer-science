@@ -13,7 +13,7 @@
 
 **Problem Sets**
 
-- [Scrabble]()
-- [Readability]()
+- [Scrabble](https://github.com/Snoower/cs50-introduction-to-computer-science/blob/main/week-2/problem-sets/scrabble.c)
+- [Readability](https://github.com/Snoower/cs50-introduction-to-computer-science/blob/main/week-2/problem-sets/readability.c)
 - [Caesar]()
 - [Substitution]()

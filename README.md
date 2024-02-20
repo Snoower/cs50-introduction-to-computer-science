@@ -1,3 +1,5 @@
+![CS50x_pll-100736021](https://github.com/Snoower/cs50-introduction-to-computer-science/assets/56703794/80a6f1ca-fa51-49d7-81d4-39d977e28ec7)
+
 # Harvard University's CS50: Introduction to Computer Science
 
 Source: https://cs50.harvard.edu/x/2024/

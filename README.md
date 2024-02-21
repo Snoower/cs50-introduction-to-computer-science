@@ -10,7 +10,7 @@ Source: https://cs50.harvard.edu/x/2024/
 
 [Week 2:](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-2) Arrays
 
-[Week 3:]() Algorithms
+[Week 3:](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-3) Algorithms
 
 [Week 4:]() Memory
 

@@ -9,6 +9,6 @@
 **Problem Sets**
 
 - [Sort](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-3/problem-sets/sort)
-- [Plurality]()
+- [Plurality](https://github.com/Snoower/cs50-introduction-to-computer-science/blob/main/week-3/problem-sets/plurality.c)
 - [Runoff]()
 - [Tideman]()

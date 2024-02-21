@@ -2,8 +2,8 @@ sort1 uses: Bubble sort
 
 How do you know?: During the lecture, David Malan mentioned that bubble sort and selection sort are rather similar, except for when the list is already sorted. This one performed
 similarly to sort3 and both sort1 and sort3 typically performed much slower than sort2. Also per the visual demonstration at the end of the lecture, during what appeared to be a
-random assortment, merge sort was the quickest, followed by selection, and then bubble sort. In my testing, I found that during the random testing, the same results
-occured (sort2 was quickest, followed by sort3, then sort1). Using that information alongside the information I found during the sorted testing, sort1 was the quickest, which suggests
+random assortment, merge sort was the quickest, followed by selectio sort, and then bubble sort. In my testing, I found that during the random testing, the same results
+occurred (sort2 was quickest, followed by sort3, then sort1). Using that information alongside the information I found during my sorted testing, sort1 was the quickest, which suggests
 that sort1 is bubble sort.
 
 sort2 uses: Merge sort
@@ -13,5 +13,5 @@ understanding that bubble sort shines when the list of sorted.
 
 sort3 uses: Selection sort
 
-How do you know?: During my testing I found that sort1 and sort3 performed more similarly (slower) than sort2, so I initially thought sort1 and sort3 are either bubble sort or selection sort.
+How do you know?: During my testing, I found that sort1 and sort3 performed more similarly (slower) than sort2, so I initially thought sort1 and sort3 are either bubble sort or selection sort.
 Based on my testing, I found that bubble sort does best in sorted testing, so process of elimination dictates that sort3 is likely selection sort.

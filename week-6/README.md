@@ -6,7 +6,7 @@
 
 **Problem Sets**
 
-- [Hello, Me]()
+- [Hello]()
 - [Mario (Less)]()
 - [Mario (More)]()
 - [Cash]()

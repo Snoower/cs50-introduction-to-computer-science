@@ -14,9 +14,9 @@ Source: https://cs50.harvard.edu/x/2024/
 
 [Week 4:](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-4) Memory
 
-[Week 5:]() Data Structures
+[Week 5:](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-5) Data Structures
 
-[Week 6:]() Python
+[Week 6:](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-6) Python
 
 [Week 6.5:]() Artificial Intelligence
 

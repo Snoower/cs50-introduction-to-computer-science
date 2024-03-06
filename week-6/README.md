@@ -12,4 +12,4 @@
 - [Cash](https://github.com/Snoower/cs50-introduction-to-computer-science/blob/main/week-6/problem-sets/cash.py)
 - [Credit](https://github.com/Snoower/cs50-introduction-to-computer-science/blob/main/week-6/problem-sets/credit.py)
 - [Readability](https://github.com/Snoower/cs50-introduction-to-computer-science/blob/main/week-6/problem-sets/readability.py)
-- [DNA]()
+- [DNA](https://github.com/Snoower/cs50-introduction-to-computer-science/blob/main/week-6/problem-sets/dna.py)

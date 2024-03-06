@@ -18,9 +18,9 @@ Source: https://cs50.harvard.edu/x/2024/
 
 [Week 6:](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-6) Python
 
-[Week 6.5:]() Artificial Intelligence
+[Week 6.5:](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-6.5) Artificial Intelligence
 
-[Week 7:]() SQL
+[Week 7:](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-7) SQL
 
 [Week 8:]() HTML, CSS, Javascript
 

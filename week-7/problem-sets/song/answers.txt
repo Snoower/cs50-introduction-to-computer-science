@@ -1,0 +1,3 @@
+I think the listener's "Audio Aura" might be very lively and bright based on the fact that all except three of the songs have >.5 danceability. Additionally, these songs have more energy and a higher tempo.
+I think the way I've calculated this may not be representative of the listener because while these could be indicative of a lively/bright listener, I am neglecting to account for the loudness and speechiness. The way I calculated it also can be biased as I am assuming a higher energy and higher tempo is bright and lively. This could also very well be indicitive of a calm and fast-paced individual too.
+I think that a better way to calculate this aura would be to also include a metric for genre.

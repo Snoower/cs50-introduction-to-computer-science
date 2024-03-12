@@ -7,6 +7,6 @@
 
 **Problem Sets**
 
-- [Songs]()
-- [Movies]()
-- [Fiftyville]()
+- [Songs](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-7/problem-sets/songs)
+- [Movies](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-7/problem-sets/movies)
+- [Fiftyville](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-7/problem-sets/fiftyville)

@@ -11,5 +11,5 @@
 
 **Problem Sets**
 
-- [Trivia]()
+- [Trivia](https://github.com/Snoower/cs50-introduction-to-computer-science/tree/main/week-8/problem-sets/trivia)
 - [Homepage]()
